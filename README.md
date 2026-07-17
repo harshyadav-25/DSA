@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshyadav-25/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -23,10 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/harshyadav-25/DSA/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## String
 |  |
 | ------- |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshyadav-25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshyadav-25/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
