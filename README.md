@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshyadav-25/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshyadav-25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/harshyadav-25/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshyadav-25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
