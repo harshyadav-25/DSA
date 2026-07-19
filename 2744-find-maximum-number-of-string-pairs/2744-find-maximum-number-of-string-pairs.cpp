@@ -5,18 +5,16 @@ public:
         unordered_set<string> s;
         int c = 0;
         for(int i = 0; i < n; i++){
-            s.insert(words[i]);
-        }
-        for(int i = 0; i < n; i++){
-            string x = words[i];
+             string x = words[i];
             reverse(x.begin(), x.end());
-            if(x == words[i]) continue;
-            if(s.find(x)!=s.end()){
+            
+             if(s.find(x)!=s.end()){
                 c++;
-                s.erase(words[i]);
-            }
-
+             }
+             else s.insert(words[i]);
+             
         }
+       
         return c;
 
     }
