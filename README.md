@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/harshyadav-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshyadav-25/DSA/tree/master/0496-next-greater-element-i) |
+| [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/harshyadav-25/DSA/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 ## Number Theory
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
