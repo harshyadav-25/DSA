@@ -150,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/harshyadav-25/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
