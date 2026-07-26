@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/harshyadav-25/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshyadav-25/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/harshyadav-25/DSA/tree/master/0242-valid-anagram) |
+| [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
 | [0844-backspace-string-compare](https://github.com/harshyadav-25/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/harshyadav-25/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshyadav-25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
+| [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
