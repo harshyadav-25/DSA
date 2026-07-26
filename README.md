@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harshyadav-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshyadav-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/harshyadav-25/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/harshyadav-25/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
