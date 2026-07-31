@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1200-minimum-absolute-difference](https://github.com/harshyadav-25/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/harshyadav-25/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1200-minimum-absolute-difference](https://github.com/harshyadav-25/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
