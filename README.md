@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0206-reverse-linked-list) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 ## Database
 |  |
