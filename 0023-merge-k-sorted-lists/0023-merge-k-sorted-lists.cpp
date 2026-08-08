@@ -33,24 +33,25 @@ public:
         }
         if(t1 == NULL) t3->next = t2;
         else t3->next = t1;
-        return c -> next;
+        //return c -> next;
+        ListNode* ans = c->next;
+        delete c;
+        return ans;
 
 
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0) return NULL;
-        while(lists.size() > 1){
-            ListNode* a = lists[lists.size() - 1];
-            lists.pop_back();
-            ListNode* b = lists[lists.size() - 1];
-            lists.pop_back();
-            ListNode* c = merge(a,b);
-            lists.push_back(c);
-        }
-        return lists[0];
-        
-        
-        
+        int n = lists.size();
+        if(n == 0) return NULL;
+        return partition(lists,0,n - 1);
+       
+    }
+    ListNode* partition(vector<ListNode*>& lists,int low,int high){
+        if(low == high) return lists[low];
+        int mid = low + (high - low)/2;
+        ListNode* a = partition(lists, low, mid);
+        ListNode* b = partition(lists, mid+1,high);
+        return merge(a,b);
         
     }
 };
