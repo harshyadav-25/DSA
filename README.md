@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
 | ------- |
