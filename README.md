@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/harshyadav-25/DSA/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/harshyadav-25/DSA/tree/master/0182-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/harshyadav-25/DSA/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/harshyadav-25/DSA/tree/master/0627-swap-sex-of-employees) |
