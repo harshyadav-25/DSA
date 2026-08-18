@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshyadav-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshyadav-25/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
@@ -260,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/harshyadav-25/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -303,4 +308,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/harshyadav-25/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
