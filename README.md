@@ -316,4 +316,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
