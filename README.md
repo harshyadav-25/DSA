@@ -319,10 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 ## Binary Search Tree
 |  |
@@ -331,5 +333,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
