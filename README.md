@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harshyadav-25/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/harshyadav-25/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
