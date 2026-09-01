@@ -11,16 +11,25 @@
  */
 class Solution {
 private:
-    void helper(TreeNode* root, vector<int> &ans){
+    void postorder_by_stack(TreeNode* root,vector<int> &ans){
         if(root == NULL) return;
-        helper(root->left, ans);
-        helper(root->right, ans);
-        ans.push_back(root->val);
+        stack<TreeNode*> st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* temp = st.top();
+            if(temp!=NULL) ans.push_back(temp->val);
+            st.pop();
+
+            if(temp->left != NULL) st.push(temp->left);
+            if(temp->right != NULL) st.push(temp->right);
+
+        }
     }
 public:
     vector<int> postorderTraversal(TreeNode* root) {
         vector<int> ans;
-        helper(root,ans);
+        postorder_by_stack(root, ans);
+        reverse(ans.begin(),ans.end());
         return ans;
         
     }
