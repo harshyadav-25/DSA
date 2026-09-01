@@ -11,17 +11,28 @@
  */
 class Solution {
 private:
-    void helper(TreeNode* root, vector<int> &ans){
-        if(root == NULL) return;
-        helper(root->left, ans);
-        ans.push_back(root->val);
-        helper(root->right, ans);
+    void inorderDfs(TreeNode* root, vector<int> &ans){
+        stack<TreeNode*> st;
+        
+        while(root != NULL || !st.empty()){
+            while(root != NULL){
+                st.push(root);
+                root = root->left;
+            }
+            root = st.top();
+            st.pop();
+            ans.push_back(root->val);
+            root = root->right;
+
+
+        }
     }
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        helper(root,ans);
+        inorderDfs(root, ans);
         return ans;
+
         
     }
 };
