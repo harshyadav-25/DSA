@@ -12,24 +12,36 @@
 class Solution {
 
 public:
-    int levels(TreeNode* root){
-        if(root == NULL) return 0;
-        return 1 + max(levels(root->left), levels(root->right));
-    }
-    void preorder(TreeNode* root, vector<int> &ans, int level){
+    
+    void bfs(TreeNode* root, vector<int> &ans){
         if(root == NULL) return;
-        ans[level] = root->val;
-        preorder(root->left, ans,level + 1);
-        preorder(root->right, ans, level + 1);
+        queue<TreeNode*> q;
+        q.push(root);
+        while(q.size() > 0){
+            int n = q.size();
+            for(int i = 0; i < n - 1; i++){
+                
+                if(q.front()->left != NULL) q.push(q.front()->left);
+                if(q.front()->right != NULL) q.push(q.front()->right);
+                q.pop();
+
+
+            }
+            ans.push_back(q.front()->val);
+            if(q.front()->left != NULL) q.push(q.front()->left);
+            if(q.front()->right != NULL) q.push(q.front()->right);
+            q.pop();
+            
+        }
+
 
     }
 public:
     vector<int> rightSideView(TreeNode* root) {
-
-        int n = levels(root);
-        vector<int> ans(n,0);
-        int level = 0;
-        preorder(root, ans, level);
+        
+        vector<int> ans;
+        if(root == NULL) return ans;
+        bfs(root, ans);
         return ans;
         
     }
