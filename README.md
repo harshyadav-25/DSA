@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/harshyadav-25/DSA/tree/master/0877-stone-game) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/harshyadav-25/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/harshyadav-25/DSA/tree/master/0496-next-greater-element-i) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/harshyadav-25/DSA/tree/master/0148-sort-list) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/harshyadav-25/DSA/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/harshyadav-25/DSA/tree/master/0437-path-sum-iii) |
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
