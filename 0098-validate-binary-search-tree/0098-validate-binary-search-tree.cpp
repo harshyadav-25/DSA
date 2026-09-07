@@ -11,34 +11,23 @@
  */
 class Solution {
 public:
-    void mx(TreeNode* root, int &maxnode){
-        if(root==NULL) return;
-        if(root->val > maxnode) maxnode = root->val;
-    	mx(root->left, maxnode);
-	    mx(root->right, maxnode);
-
-    }
-    void mn(TreeNode* root, int &minnode){
+    void inorder(TreeNode* root, TreeNode* &prev, bool &flag){
         if(root == NULL) return;
-        
-        if(root->val < minnode) minnode =root->val;
-        mn(root->left, minnode);
-        mn(root->right, minnode);
+        inorder(root->left, prev, flag);
+        if(prev != NULL){
+            if(root -> val <= prev->val){
+                flag = false;
+                return;
+            }
+        }
+        prev = root;
+        inorder(root->right, prev, flag);
     }
     bool isValidBST(TreeNode* root) {
-        
-        bool ans1 = true;
-        bool ans2 = true;
-        if(root == NULL) return true; 
-        int maxnode = INT_MIN;
-        int minnode = INT_MAX;
-        mx(root->left,maxnode);
-        mn(root->right,minnode);
-        if(root->left != NULL && maxnode >= root->val) ans1 = false;
-        if(root->right != NULL && minnode <= root->val) ans2 = false;
-        bool left = isValidBST(root->left);
-        bool right = isValidBST(root->right);
-        return ans1 && ans2 && left && right;
+        TreeNode* prev = NULL;
+        bool flag = true;
+        inorder(root, prev, flag);
+        return flag;
         
     }
 };
