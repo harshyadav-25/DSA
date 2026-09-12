@@ -10,29 +10,40 @@
  * };
  */
 class Solution {
-private:
-    void inorderDfs(TreeNode* root, vector<int> &ans){
-        stack<TreeNode*> st;
-        
-        while(root != NULL || !st.empty()){
-            while(root != NULL){
-                st.push(root);
-                root = root->left;
-            }
-            root = st.top();
-            st.pop();
-            ans.push_back(root->val);
-            root = root->right;
-
-
-        }
-    }
 public:
-    vector<int> inorderTraversal(TreeNode* root) {
+    vector<int> morris(TreeNode* curr){
         vector<int> ans;
-        inorderDfs(root, ans);
+        while(curr != NULL){
+            if(curr->left == NULL){
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+            //inorder predecessor is brain 
+            else{
+                TreeNode* pred = curr->left;
+                while(pred->right != NULL && pred->right != curr){
+                    pred = pred->right;
+                }
+                if(pred->right == NULL){
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else{
+                    //link todo
+                    pred->right = NULL;
+                    //visit kro
+                    ans.push_back(curr->val);
+                    //right me jaao
+                    curr = curr->right;
+                }
+            }
+        }
         return ans;
+    }
 
+    vector<int> inorderTraversal(TreeNode* root) {
+        //morris lagate hai space auxilary O(1) 
+        return morris(root);
         
     }
 };
