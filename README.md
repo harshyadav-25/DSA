@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/harshyadav-25/DSA/tree/master/0844-backspace-string-compare) |
+| [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/harshyadav-25/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/harshyadav-25/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/harshyadav-25/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshyadav-25/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/harshyadav-25/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/harshyadav-25/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshyadav-25/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/harshyadav-25/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/harshyadav-25/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshyadav-25/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -478,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/harshyadav-25/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshyadav-25/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
