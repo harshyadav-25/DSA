@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/harshyadav-25/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/harshyadav-25/DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/harshyadav-25/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/harshyadav-25/DSA/tree/master/0059-spiral-matrix-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshyadav-25/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/harshyadav-25/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/harshyadav-25/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/harshyadav-25/DSA/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/harshyadav-25/DSA/tree/master/0141-linked-list-cycle) |
