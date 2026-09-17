@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/harshyadav-25/DSA/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/harshyadav-25/DSA/tree/master/0877-stone-game) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/harshyadav-25/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshyadav-25/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0844-backspace-string-compare](https://github.com/harshyadav-25/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/harshyadav-25/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshyadav-25/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/harshyadav-25/DSA/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/harshyadav-25/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/harshyadav-25/DSA/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshyadav-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -324,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshyadav-25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshyadav-25/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/harshyadav-25/DSA/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshyadav-25/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
