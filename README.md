@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1550-three-consecutive-odds](https://github.com/harshyadav-25/DSA/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshyadav-25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/harshyadav-25/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/harshyadav-25/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshyadav-25/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshyadav-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Heap (Priority Queue)
 |  |
@@ -578,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/harshyadav-25/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshyadav-25/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
