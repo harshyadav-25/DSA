@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshyadav-25/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/harshyadav-25/DSA/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/harshyadav-25/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/harshyadav-25/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/harshyadav-25/DSA/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/harshyadav-25/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/harshyadav-25/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/harshyadav-25/DSA/tree/master/0086-partition-list) |
+| [0125-valid-palindrome](https://github.com/harshyadav-25/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harshyadav-25/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/harshyadav-25/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/harshyadav-25/DSA/tree/master/0148-sort-list) |
