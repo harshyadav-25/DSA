@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshyadav-25/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshyadav-25/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/harshyadav-25/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshyadav-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshyadav-25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
