@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshyadav-25/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/harshyadav-25/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/harshyadav-25/DSA/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/harshyadav-25/DSA/tree/master/0904-fruit-into-baskets) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/harshyadav-25/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/harshyadav-25/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/harshyadav-25/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshyadav-25/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/harshyadav-25/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/harshyadav-25/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshyadav-25/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
@@ -717,4 +721,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshyadav-25/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
