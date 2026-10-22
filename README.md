@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/harshyadav-25/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/harshyadav-25/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshyadav-25/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav-25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshyadav-25/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/harshyadav-25/DSA/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/harshyadav-25/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshyadav-25/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshyadav-25/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/harshyadav-25/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/harshyadav-25/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav-25/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshyadav-25/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/harshyadav-25/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/harshyadav-25/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/harshyadav-25/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav-25/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshyadav-25/DSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshyadav-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
