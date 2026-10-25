@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshyadav-25/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshyadav-25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshyadav-25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshyadav-25/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshyadav-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshyadav-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/harshyadav-25/DSA/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
