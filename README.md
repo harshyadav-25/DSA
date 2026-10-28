@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshyadav-25/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/harshyadav-25/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/harshyadav-25/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/harshyadav-25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/harshyadav-25/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/harshyadav-25/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/harshyadav-25/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/harshyadav-25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2928-distribute-candies-among-children-i](https://github.com/harshyadav-25/DSA/tree/master/2928-distribute-candies-among-children-i) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/harshyadav-25/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/harshyadav-25/DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1903-largest-odd-number-in-string](https://github.com/harshyadav-25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshyadav-25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
