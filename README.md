@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshyadav-25/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/harshyadav-25/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/harshyadav-25/DSA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshyadav-25/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/harshyadav-25/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/harshyadav-25/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/harshyadav-25/DSA/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/harshyadav-25/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/harshyadav-25/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshyadav-25/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/harshyadav-25/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/harshyadav-25/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/harshyadav-25/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/harshyadav-25/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -512,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshyadav-25/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshyadav-25/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -776,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/harshyadav-25/DSA/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
