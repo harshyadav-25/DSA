@@ -2,10 +2,10 @@ class Solution {
 public:
     int minMoves(vector<int>& nums) {
         int n = nums.size();
-        sort(nums.begin(),nums.end());
-        int mx = nums[n-1];
+        int mx = *max_element(nums.begin(),nums.end());
+       
         int c = 0;
-        for(int i = 0; i < n - 1; i++){
+        for(int i = 0; i < n; i++){
             int diff = mx - nums[i];
             c+=diff;
 
