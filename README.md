@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/harshyadav-25/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/harshyadav-25/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harshyadav-25/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/harshyadav-25/DSA/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/harshyadav-25/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sorting
 |  |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/harshyadav-25/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshyadav-25/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0338-counting-bits](https://github.com/harshyadav-25/DSA/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/harshyadav-25/DSA/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
