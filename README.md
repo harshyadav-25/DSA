@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/harshyadav-25/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/harshyadav-25/DSA/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/harshyadav-25/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/harshyadav-25/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/harshyadav-25/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/harshyadav-25/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/harshyadav-25/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/harshyadav-25/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/harshyadav-25/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harshyadav-25/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/harshyadav-25/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/harshyadav-25/DSA/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/harshyadav-25/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/harshyadav-25/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/harshyadav-25/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/harshyadav-25/DSA/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshyadav-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
