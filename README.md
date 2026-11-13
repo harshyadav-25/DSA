@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshyadav-25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/harshyadav-25/DSA/tree/master/2810-faulty-keyboard) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshyadav-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/harshyadav-25/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Queue
 |  |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshyadav-25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
