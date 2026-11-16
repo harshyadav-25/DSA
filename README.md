@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/harshyadav-25/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/harshyadav-25/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/harshyadav-25/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshyadav-25/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2418-sort-the-people](https://github.com/harshyadav-25/DSA/tree/master/2418-sort-the-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/harshyadav-25/DSA/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1260-shift-2d-grid](https://github.com/harshyadav-25/DSA/tree/master/1260-shift-2d-grid) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/harshyadav-25/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/harshyadav-25/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2810-faulty-keyboard](https://github.com/harshyadav-25/DSA/tree/master/2810-faulty-keyboard) |
