@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/harshyadav-25/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/harshyadav-25/DSA/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/harshyadav-25/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
 | [0973-k-closest-points-to-origin](https://github.com/harshyadav-25/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/harshyadav-25/DSA/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshyadav-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshyadav-25/DSA/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0669-trim-a-binary-search-tree) |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/harshyadav-25/DSA/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/harshyadav-25/DSA/tree/master/0897-increasing-order-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/harshyadav-25/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshyadav-25/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/harshyadav-25/DSA/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/harshyadav-25/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/harshyadav-25/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshyadav-25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
@@ -872,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/harshyadav-25/DSA/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
 | [0841-keys-and-rooms](https://github.com/harshyadav-25/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshyadav-25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -880,4 +884,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshyadav-25/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/harshyadav-25/DSA/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/harshyadav-25/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/harshyadav-25/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
