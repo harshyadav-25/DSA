@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2326-spiral-matrix-iv](https://github.com/harshyadav-25/DSA/tree/master/2326-spiral-matrix-iv) |
 | [2418-sort-the-people](https://github.com/harshyadav-25/DSA/tree/master/2418-sort-the-people) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshyadav-25/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/harshyadav-25/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshyadav-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/harshyadav-25/DSA/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshyadav-25/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/2094-finding-3-digit-even-numbers) |
 | [2418-sort-the-people](https://github.com/harshyadav-25/DSA/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshyadav-25/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshyadav-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshyadav-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/harshyadav-25/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/harshyadav-25/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
