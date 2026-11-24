@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshyadav-25/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshyadav-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshyadav-25/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshyadav-25/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2929-distribute-candies-among-children-ii](https://github.com/harshyadav-25/DSA/tree/master/2929-distribute-candies-among-children-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshyadav-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshyadav-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/harshyadav-25/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/harshyadav-25/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/harshyadav-25/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshyadav-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/harshyadav-25/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/harshyadav-25/DSA/tree/master/2928-distribute-candies-among-children-i) |
 | [2929-distribute-candies-among-children-ii](https://github.com/harshyadav-25/DSA/tree/master/2929-distribute-candies-among-children-ii) |
 | [2947-count-beautiful-substrings-i](https://github.com/harshyadav-25/DSA/tree/master/2947-count-beautiful-substrings-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -520,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/harshyadav-25/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/harshyadav-25/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshyadav-25/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
