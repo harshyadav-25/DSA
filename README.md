@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/harshyadav-25/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/harshyadav-25/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/harshyadav-25/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/harshyadav-25/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/harshyadav-25/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/harshyadav-25/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/harshyadav-25/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## String
 |  |
 | ------- |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3894-traffic-signal-color](https://github.com/harshyadav-25/DSA/tree/master/3894-traffic-signal-color) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/harshyadav-25/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/harshyadav-25/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/harshyadav-25/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Design
 |  |
 | ------- |
@@ -547,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -635,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/harshyadav-25/DSA/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1675-minimize-deviation-in-array](https://github.com/harshyadav-25/DSA/tree/master/1675-minimize-deviation-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/harshyadav-25/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/harshyadav-25/DSA/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Tree
 |  |
 | ------- |
