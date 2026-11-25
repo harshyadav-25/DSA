@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/harshyadav-25/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/harshyadav-25/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harshyadav-25/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/harshyadav-25/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/harshyadav-25/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/harshyadav-25/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/harshyadav-25/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/harshyadav-25/DSA/tree/master/2418-sort-the-people) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshyadav-25/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2733-neither-minimum-nor-maximum](https://github.com/harshyadav-25/DSA/tree/master/2733-neither-minimum-nor-maximum) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/harshyadav-25/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harshyadav-25/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/harshyadav-25/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-maximum-product-after-k-increments](https://github.com/harshyadav-25/DSA/tree/master/2233-maximum-product-after-k-increments) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/harshyadav-25/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/harshyadav-25/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3301-maximize-the-total-height-of-unique-towers](https://github.com/harshyadav-25/DSA/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshyadav-25/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4014-minimum-total-price-after-applying-discounts](https://github.com/harshyadav-25/DSA/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Combinatorics
